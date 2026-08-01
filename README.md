@@ -117,6 +117,8 @@ This portfolio represents my work throughout the Artificial Intelligence Applica
 
 **Author:** Luiz Henrique Paludo
 
+luiz.h.paludo@gmail.com
+
 Houston Community College
 
 Artificial Intelligence Applications (ITAI 2372)
