@@ -4,7 +4,7 @@
 
 Welcome to my Artificial Intelligence Applications Portfolio.
 
-This repository contains the assignments and projects I completed for **ITAI 2372 – Artificial Intelligence Applications** at **Houston Community College**. Throughout the course, I explored how artificial intelligence is transforming different industries by analyzing real-world applications, ethical considerations, emerging technologies, and future trends.
+This repository contains the assignments and projects I completed for **ITAI 2372 – Artificial Intelligence Applications** at **Houston City College**. Throughout the course, I explored how artificial intelligence is transforming different industries by analyzing real-world applications, ethical considerations, emerging technologies, and future trends.
 
 The portfolio demonstrates my understanding of AI concepts through research, case studies, and industry analysis.
 
@@ -119,7 +119,7 @@ This portfolio represents my work throughout the Artificial Intelligence Applica
 
 luiz.h.paludo@gmail.com
 
-Houston Community College
+Houston City College
 
 Artificial Intelligence Applications (ITAI 2372)
 
