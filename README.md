@@ -107,7 +107,7 @@ The **Resources** folder contains helpful websites, academic references, and lea
 
 ## About Me
 
-My name is **Luiz Henrique Paludo**, and I am pursuing an Associate of Applied Science in Artificial Intelligence at **Houston Community College**.
+My name is **Luiz Henrique Paludo**, and I am pursuing an Associate of Applied Science in Artificial Intelligence at **Houston City College**.
 
 This portfolio represents my work throughout the Artificial Intelligence Applications course and reflects my understanding of how AI is being applied across multiple industries to solve real-world problems.
 
