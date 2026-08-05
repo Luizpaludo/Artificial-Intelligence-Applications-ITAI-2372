@@ -33,6 +33,7 @@ This repository includes:
 | Module 2 | A02 | Recent Advancements and Future Trends in AI |
 | Module 3 | A03 | Analysis of AI Use Cases in Healthcare and Agriculture |
 | Module 4 | A04 | AI in Finance and Fraud Detection |
+| Module 4B| A04 | AI in the Finance Industry |
 | Module 5 | A05 | AI in Healthcare Industry |
 | Module 6 | A06 | Entertainment and Media |
 | Module 7 | A07 | AI in Blockchain |
